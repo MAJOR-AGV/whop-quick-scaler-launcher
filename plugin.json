@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "whop-quick-scaler-launcher",
+  "version": "1.0.0",
+  "description": "Unofficial. Not affiliated with or endorsed by Whop. Whop Quick Scaler and Launcher by Major: set up and run a Whop store with your agent (product, price, payment link, sales page), checked before and after every change, with the official Whop MCP and field-tested playbooks bundled.",
+  "author": {
+    "name": "Major",
+    "url": "https://x.com/majoragv"
+  },
+  "homepage": "https://github.com/MAJOR-AGV/whop-quick-scaler-launcher",
+  "repository": "https://github.com/MAJOR-AGV/whop-quick-scaler-launcher",
+  "license": "MIT-0",
+  "keywords": [
+    "whop",
+    "ecommerce",
+    "online-store",
+    "digital-products",
+    "subscriptions",
+    "paid-community",
+    "payment-links",
+    "checkout",
+    "creator-business",
+    "mcp"
+  ]
+}

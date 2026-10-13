@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "whop": {
+      "type": "streamable-http",
+      "url": "https://mcp.whop.com/mcp"
+    },
+    "whopdocs": {
+      "type": "streamable-http",
+      "url": "https://docs.whop.com/mcp"
+    }
+  }
+}
